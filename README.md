@@ -1,4 +1,4 @@
-En este repositorio se encuentran toda la documentación pertinente referente al TT cuyos responsables son Daniel Juarez Ávila y Antonio Valdés Hernández (autores).
+En este repositorio se encuentran toda la documentación pertinente referente al TT (Dispositivo portátil con sensores inerciales para medir debilidad muscular de la mano y brazo), cuyos responsables y autores son Daniel Juarez Ávila y Antonio Valdés Hernández.
 Aviso de derechos de autor y uso del material
 
 Toda la documentación, código fuente, diagramas, imágenes y demás contenido incluido en este repositorio son propiedad intelectual de sus autores.
